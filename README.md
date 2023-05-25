@@ -2,8 +2,8 @@
 Proyecto en Java con Spring Boot
 
 ## Autor
-### Jessy Yunga [Repositorio](htts://github.com/JessyYunga)
+### Jessy Yunga [Repositorio](https://github.com/JessyYunga)
 ## Descripcion:
 En este proyecto vamos a acceder datos sobre habitantes, de donde provienen, a que ciudad, pais, barrio pertenecen, tiene como objetivo, calificar los barrios a los que los habitantes pertenecen y así tener una mayor seguridad.
 
-©Copyright 2023 [ISTLRG](htts://insteclrg.edu.ec)
+©Copyright 2023 [ISTLRG](https://insteclrg.edu.ec)
