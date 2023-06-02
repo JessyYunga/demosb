@@ -16,6 +16,7 @@ import ec.edu.insteclrg.service.GenericCrudServiceImpl;
 
 @Service
 public class ProvinciaService extends GenericCrudServiceImpl<Provincia, ProvinciaDTO>{
+
 	@Autowired
 	private ProvinciaRepository repository;
 

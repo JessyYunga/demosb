@@ -14,7 +14,7 @@ import ec.edu.insteclrg.service.crud.PaisService;
 import ec.edu.insteclrg.service.crud.ProvinciaService;
 
 @RestController
-@RequestMapping("/api/v1.0/pais/")
+@RequestMapping("/api/v1.0/provincia/")
 
 public class ProvinciaController {
 	
@@ -25,6 +25,5 @@ public class ProvinciaController {
 	public ResponseEntity<Object> guardar(@RequestBody ProvinciaDTO dto){
 		service.save(dto);
 		return new ResponseEntity<>("Guardado Correctamente",  HttpStatus.OK);
-	
 	}
 }
